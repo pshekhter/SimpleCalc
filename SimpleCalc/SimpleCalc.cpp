@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 #include "SimpleCalc.h"
+#include "Operator.h"
 
 #define MAX_LOADSTRING 100
 
